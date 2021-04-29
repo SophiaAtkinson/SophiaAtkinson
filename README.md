@@ -6,7 +6,7 @@
 - 📫 How to reach me: Discord SophiaXD#3076, or my email sophia@sophiaatkinson.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: Im a weeb, Big Toradora fan, and im a Minecrafter
-- 🎵 Favorite song- Galileo Galilei - Aoi Shiori
+- 🎵 Favorite song: Aoi Shiori by Galileo Galilei
 
 
 ### Stats 📊
