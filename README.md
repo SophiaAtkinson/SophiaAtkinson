@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Codworth
+- 🔭 I’m currently working on Codsworth
 - 🌱 I’m currently learning more Node JS
 - 🤔 I’m looking for help with Codsworth site translation
 - 💬 Ask me about anything
