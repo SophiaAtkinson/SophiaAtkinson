@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node JS
 - 🤔 I’m looking for help with Codsworth site translation
 - 💬 Ask me about anything
-- 📫 How to reach me: Discord SophiaXD#3076, or my email sophia@sophiaatkinson.com
+- 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my email sophia@sophiaatkinson.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: Im a weeb, Big Toradora fan, and im a Minecrafter
 - 🎵 Favorite song: [Aoi Shiori by Galileo Galilei](https://www.youtube.com/watch?v=T3bxbVGWy5k)
