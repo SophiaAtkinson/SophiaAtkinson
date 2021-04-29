@@ -7,3 +7,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Im a weeb
 
+### Stats 📊
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SophiaAtkinson&show_icons=true&title_color=000000&text_color=000000&border_radius=3) <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaAtkinson&title_color=000000&text_color=000000&border_radius=3)
+
