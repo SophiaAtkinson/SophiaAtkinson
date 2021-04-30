@@ -8,7 +8,7 @@
 - ⚡ Fun facts: Im a weeb, Big Toradora fan, and im a Minecrafter
 - 🎵 Favorite song: [Aoi Shiori by Galileo Galilei](https://www.youtube.com/watch?v=T3bxbVGWy5k)
 - 💻 [Blog/Main Site](https://sophiaatkinson.com/)
-- 📁 My offical sites: [sophia@sophiaatkinson.com](https://sophiaatkinson.com/), [sophia.ml](https://sophia.ml/)
+- 📁 My official sites: [sophia@sophiaatkinson.com](https://sophiaatkinson.com/), [sophia.ml](https://sophia.ml/)
 ### Stats 📊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SophiaAtkinson&show_icons=true&title_color=000000&text_color=000000&border_radius=1) <br />
