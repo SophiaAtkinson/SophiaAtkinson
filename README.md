@@ -7,7 +7,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: Im a weeb, Big Toradora fan, and im a Minecrafter
 - 🎵 Favorite song: [Aoi Shiori by Galileo Galilei](https://www.youtube.com/watch?v=T3bxbVGWy5k)
-
+- 💻 [Blog](https://sophiaatkinson.com/)
 
 ### Stats 📊
 
