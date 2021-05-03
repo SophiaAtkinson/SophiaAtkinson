@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Codsworth
 - 🌱 I’m currently learning Node JS
-- 🤔 I’m looking for help with Codsworth site translation
+- 🤔 I’m looking for help with Firewatch Guide Transcription 
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my email sophia@sophiaatkinson.com
 - 😄 Pronouns: She/Her
