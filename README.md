@@ -6,9 +6,9 @@
 - 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my email sophia@sophiaatkinson.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: Im a weeb, Big Toradora fan, and im a Minecrafter
-- 🎵 Favorite song: [Aoi Shiori by Galileo Galilei](https://www.youtube.com/watch?v=T3bxbVGWy5k)
+- 🎵 Favorite song: [Aoi Shiori by Galileo Galilei](https://www.youtube.com/watch?v=T3bxbVGWy5k), Favorite Album: [Sharinno Jiku by Galileo Galilei](https://music.apple.com/us/album/%E8%BB%8A%E8%BC%AA%E3%81%AE%E8%BB%B8/1538264059)
 - 💻 [Blog/Main Site](https://sophiaatkinson.com/)
-- 📁 My official sites: [sophiaatkinson.com](https://sophiaatkinson.com/), [sophia.ml](https://sophia.ml/), [grape.ga](http://grape.ga/), [grapes.ga](http://grapes.ga/)
+- 📁 My official sites: [sophiaatkinson.com](https://sophiaatkinson.com/), [sophia.ml](https://sophia.ml/)
 ### Stats 📊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SophiaAtkinson&show_icons=true&title_color=000000&text_color=000000&border_radius=1) <br />
