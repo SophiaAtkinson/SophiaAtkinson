@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node JS
 - 🤔 I’m looking for help with Firewatch Guide Transcription 
 - 💬 Ask me about anything
-- 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my [Email](mailto:sophiaatkinson.com)
+- 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my [Email](mailto:sophia@sophiaatkinson.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: Im a weeb, Big Toradora fan, and im a Minecrafter
 - 🎵 Favorite song: [Aoi Shiori by Galileo Galilei](https://www.youtube.com/watch?v=T3bxbVGWy5k), Favorite Album: [Sharinno Jiku by Galileo Galilei](https://music.apple.com/us/album/%E8%BB%8A%E8%BC%AA%E3%81%AE%E8%BB%B8/1538264059)
