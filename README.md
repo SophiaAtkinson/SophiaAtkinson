@@ -12,7 +12,7 @@
 - </> Node.js, Javascript, Lua, C++, C#.
 ### Stats 📊
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SophiaAtkinson&show_icons=true&title_color=000000&text_color=000000&border_radius=1) <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaAtkinson&title_color=000000&text_color=000000&border_radius=1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SophiaAtkinson&show_icons=true&theme=dark&line_height=27") <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaAtkinson&theme=dark&hide_langs_below=1)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsophia.ml&count_bg=%23A500F7&title_bg=%23000000&icon=node-dot-js.svg&icon_color=%23FFFFFF&title=Page+Views+&edge_flat=false)](https://hits.seeyoufarm.com)
