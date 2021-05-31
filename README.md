@@ -1,5 +1,5 @@
 ### Hello... 🌸
-<img align="right" alt="PC GIF" src="https://sophia.ml/cdn/PC.gif" width="180" />
+<img align="right" alt="PC GIF" src="https://sophia.ml/cdn/NewPC.gif" width="180" />
 
 - 🔭 I’m currently working on Codsworth
 - 🌱 I’m currently learning C#
