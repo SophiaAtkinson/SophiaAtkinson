@@ -11,7 +11,7 @@
 - 🎵 Favorite song: [Aoi Shiori by Galileo Galilei](https://open.spotify.com/track/237lHE2ezW9oHxyEFqvyQo?si=d4ad1200c5624e4f), Favorite Album: [Sharinno Jiku by Galileo Galilei](https://open.spotify.com/album/0LfxOWTVdWR5QSJFUB1Vyz). Full Songs List: [Here](https://music.sophia.ml/) 
 - 💻 [Blog/Main Site](https://sophiaatkinson.com/)
 - 📁 My official sites: [sophiaatkinson.com](https://sophiaatkinson.com/), [sophia.ml](https://sophia.ml/)
-- 🖥 Node.js, Javascript, Lua, C++, C#, Java.
+- 🖥 Node.js, Javascript, Lua, C++, C#, Java, Typescript.
 ### Stats 📊
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsophia.ml&count_bg=%238D00FF&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23008CFF&title=Page+Views+&edge_flat=false)](https://sophia.ml/)
