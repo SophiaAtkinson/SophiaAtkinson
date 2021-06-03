@@ -2,7 +2,7 @@
 <img align="right" alt="PC GIF" src="https://sophia.ml/cdn/PC.gif" width="180" />
 
 - 🔭 I’m currently working on Codsworth
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Typescript
 - 🤔 I’m looking for help with Typescript
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my [Email](mailto:sophia@sophiaatkinson.com)
