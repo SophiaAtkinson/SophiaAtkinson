@@ -20,4 +20,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaAtkinson&theme=dark&hide_langs_below=1)
 
+## Jokes For Joksters
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 This is also used for my website [sophia.ml](https://sophia.ml/)
