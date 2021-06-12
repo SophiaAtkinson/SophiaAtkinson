@@ -14,7 +14,7 @@
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
 ### Stats 📊
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsophia.ml&count_bg=%238D00FF&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23008CFF&title=Page+Views+&edge_flat=false)](https://sophia.ml/)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsophia.ml&count_bg=%238D00FF&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23008CFF&title=Page+Views+&edge_flat=false)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SophiaAtkinson&show_icons=true&theme=dark&line_height=27") <br />
 
