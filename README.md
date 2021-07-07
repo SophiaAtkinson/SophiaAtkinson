@@ -14,7 +14,7 @@
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
 ### Stats 📊
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsophia.ml&count_bg=%238D00FF&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23008CFF&title=Clickaroos+&edge_flat=false)
+![Hits](https://camo.githubusercontent.com/13a1ad1c3b82bc2b00f67af401cea569fdaa2ae54519f7cfd57fc55b01936dd7/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d6874747073253341253246253246736f706869612e6d6c26636f756e745f62673d253233384430304646267469746c655f62673d2532333030303030302669636f6e3d76697375616c73747564696f636f64652e7376672669636f6e5f636f6c6f723d253233303038434646267469746c653d436c69636b61726f6f732b26656467655f666c61743d66616c7365)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SophiaAtkinson&show_icons=true&theme=dark&line_height=27") <br />
 
