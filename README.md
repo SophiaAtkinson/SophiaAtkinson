@@ -10,7 +10,7 @@
 - ⚡ Fun facts: Im a weeb, Big Toradora fan, and im a Gamer, Trans.
 - 🎵 Favorite song: [Aoi Shiori by Galileo Galilei](https://open.spotify.com/track/237lHE2ezW9oHxyEFqvyQo?si=d4ad1200c5624e4f), Favorite Album: [Sharinno Jiku by Galileo Galilei](https://open.spotify.com/album/0LfxOWTVdWR5QSJFUB1Vyz). Full Songs List: [Here](https://music.sophia.ml/) 
 - 💻 [Blog/Main Site](https://sophiaatkinson.com/)
-- 📁 My official sites: [sophiaatkinson.com](https://sophiaatkinson.com/), [sophia.ml](https://sophia.ml/)
+- 📁 My official site: [sophia.ml](https://sophia.ml/)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
 ### Stats 📊
 
