@@ -19,6 +19,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SophiaAtkinson&show_icons=true&theme=dark&line_height=27") <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaAtkinson&theme=dark&hide_langs_below=1)
-
-
-This is also used for my website [sophia.ml](https://sophia.ml/)
