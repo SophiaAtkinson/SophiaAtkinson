@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Typescript
 - 🤔 I’m looking for help with Typescript
 - 💬 Ask me about anything
-- 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my [Email](mailto:sophia@sophiaatkinson.com)
+- 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my [Email](mailto:sophialul@protonmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: Im a weeb, Big Toradora fan, and im a Gamer, Trans.
 - 🎵 Favorite song: [Aoi Shiori by Galileo Galilei](https://open.spotify.com/track/237lHE2ezW9oHxyEFqvyQo?si=d4ad1200c5624e4f), Favorite Album: [Sharinno Jiku by Galileo Galilei](https://open.spotify.com/album/0LfxOWTVdWR5QSJFUB1Vyz). Full Songs List: [Here](https://music.sophia.ml/) 
