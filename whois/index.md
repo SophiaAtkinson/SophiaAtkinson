@@ -8,7 +8,7 @@ Registered On: 2021-04-30
 
 Expires On: 2022-04-30
 
-Updated On: 2021-04-30
+Updated On: 2021-07-28
 
 Status: clientTransferProhibited
 
