@@ -2,7 +2,7 @@
 
 ---
 
-![](https://projectfirewatch.com/cdn/20200701135646_1.jpg)
+<img align="center" alt="PC GIF" src="https://projectfirewatch.com/cdn/20200701135646_1.jpg" width="500" />
 
 ---
 
