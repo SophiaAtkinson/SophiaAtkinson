@@ -10,11 +10,12 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my [Email](mailto:sophialul@protonmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun facts about me: Im a weeb, Big Toradora fan, and im a Gamer, Trans.
+- ⚡ Fun facts about me: I am trans mtf, I have a homelab, I love computers, and I waste alot of money on garbage.
 - 🎵 Favorite Songs List: [Here](/music/) 
 - 🔗 Misc Links: [Steam Curator](/link/curator), [Github](/link/github), [Steam](/link/steam), [Twitter](/link/twitter), [Xidax](/link/xidax), [Youtube](/link/youtube).
 - 📁 My official site: [sophia.ml](https://sophia.ml/)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
+
 
 
 ### Stats 📊
