@@ -15,3 +15,7 @@
 - 📁 My official site: [sophia.ml](https://sophia.ml/)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
 
+---
+
+<iframe width="650" height="366" src="https://www.youtube.com/embed/f_0KWocpKA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
