@@ -14,6 +14,7 @@
 - 📁 My official site: [sophia.ml](https://sophia.ml/)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
 - 🔗 Misc Links: [Project News](/releases/), [Codsworth](https://codsworth.xyz/), [Project Firewatch](https://projectfirewatch.com), [Steam Curator](/link/curator), [Github](/link/github), [Steam](/link/steam), [Twitter](/link/twitter), [Xidax](/link/xidax), [Youtube](/link/youtube).
+
 ---
 
 <p align="center"><iframe src="https://www.youtube.com/embed/f_0KWocpKA4" width=650 height="366"></iframe></p>
