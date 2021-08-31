@@ -4,7 +4,7 @@
 
 ### If I shut Codsworth down it will go in this order.
 
-- A Tweet will be sent out on Twitter, then the website home page will be changed to [this](codsworth.xyz/endoflife.html), A date will be given for shut down. Could be a week, or more.
+- A Tweet will be sent out on Twitter, then the website home page will be changed to [this](https://codsworth.xyz/endoflife.html), A date will be given for shut down. Could be a week, or more.
 - On the day of the shutdown another tweet, will be sent out, Then Codsworth will be pulled offline.
 - After that, I will continue to pay for the domain, Just in case if it ever comes back.
 
