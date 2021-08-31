@@ -11,7 +11,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts about me: I am trans mtf, I have a homelab, I love computers, and I waste alot of money on garbage.
 - 🎵 Favorite Songs List: [Here](/music/) 
-- 🔗 Misc Links: [Project News](/releases/), [Steam Curator](/link/curator), [Github](/link/github), [Steam](/link/steam), [Twitter](/link/twitter), [Xidax](/link/xidax), [Youtube](/link/youtube).
+- 🔗 Misc Links: [Project News](/releases/), [Codsworth](https://codsworth.xyz/), [Project Firewatch](https://projectfirewatch.com), [Steam Curator](/link/curator), [Github](/link/github), [Steam](/link/steam), [Twitter](/link/twitter), [Xidax](/link/xidax), [Youtube](/link/youtube).
 - 📁 My official site: [sophia.ml](https://sophia.ml/)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
 
