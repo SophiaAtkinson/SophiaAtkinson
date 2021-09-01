@@ -1,6 +1,8 @@
 # More or less project news releases
 
-### [Home](/)  
+---
+
+### [Home](/)
 
 ---
 
