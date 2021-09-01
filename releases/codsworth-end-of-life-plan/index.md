@@ -1,5 +1,6 @@
 ### Codsworth End Of Life Plan
 ### 8/31/2021
+### [Home](/)
 ### All of the projects that I have worked on have always had a plan if everything goes to shit. This is Codsworths if it ever happens.
 
 ### If I shut Codsworth down it will go in this order.
@@ -11,5 +12,3 @@
 ### That is the whole plan.
 
 ### This does not mean it will happen any time soon.
-
-### [Home](/)
