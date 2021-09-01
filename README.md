@@ -4,6 +4,7 @@
 <meta name="cf-2fa-verify" content="8e72f60550453f7">
 </head>
 
+
 - 🔭 I’m currently working on [Project Firewatch](https://projectfirewatch.com/)
 - 🌱 I’m currently learning Typescript
 - 🤔 I’m looking for help with Typescript
@@ -12,9 +13,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts about me: I am trans mtf, I have a homelab, I love computers, and I waste alot of money on garbage.
 - 🎵 Favorite Songs List: [Here](/music/) 
-- 🔗 Misc Links: [Steam Curator](/link/curator), [Github](/link/github), [Steam](/link/steam), [Twitter](/link/twitter), [Xidax](/link/xidax), [Youtube](/link/youtube).
-- 📁 My official site: [sophia.ml](https://sophia.ml/)
+- 📁 My official site: [sophia.ml](https://sophia.ml/), [sophiaatkinson.com (Deprecated)](https://sophiaatkinson.com)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
+- 🔗 Misc Links: [Project News](/releases/), [Codsworth](https://codsworth.xyz/), [Project Firewatch](https://projectfirewatch.com), [Steam Curator](/link/curator), [Github](/link/github), [Steam](/link/steam), [Twitter](/link/twitter), [Youtube](/link/youtube).
 
 
 
