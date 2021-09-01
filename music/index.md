@@ -1,5 +1,11 @@
 # My favorite Music and Albums
 
+---
+
+### [Home](/)
+
+---
+
 [Aoi Shiori by Galileo Galilei](https://www.youtube.com/watch?v=T3bxbVGWy5k)
 
 [Sharinno Jiku by Galileo Galilei](https://open.spotify.com/album/0LfxOWTVdWR5QSJFUB1Vyz)
