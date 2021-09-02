@@ -29,3 +29,8 @@
 [Naimononedari by Kana-Boon](https://open.spotify.com/track/1dsh4buvcBs2u7YtHy29c7?si=18c46c43e07c4a5f)
 
 ## My [Playlist](https://music.apple.com/library/playlist/p.06aW3YphVZZv0bQ)
+
+
+---
+
+Copyright © 2021 Sophia , Licensed under the MIT License.
