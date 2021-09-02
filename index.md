@@ -19,3 +19,6 @@
 
 <p align="center"><iframe src="https://www.youtube.com/embed/f_0KWocpKA4" width=650 height="366"></iframe></p>
 
+---
+
+*Copyright © 2021 Sophia , Licensed under the MIT License.*
