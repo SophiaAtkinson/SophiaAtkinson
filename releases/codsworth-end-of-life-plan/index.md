@@ -18,3 +18,7 @@
 ### That is the whole plan.
 
 ### This does not mean it will happen any time soon.
+
+---
+
+Copyright © 2021 Sophia , Licensed under the MIT License.
