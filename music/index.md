@@ -30,6 +30,9 @@
 
 ## My [Playlist](https://music.apple.com/library/playlist/p.06aW3YphVZZv0bQ)
 
+# Soundcloud favorites
+
+[Soundcloud Likes](https://soundcloud.com/sophialul/likes)
 
 ---
 
