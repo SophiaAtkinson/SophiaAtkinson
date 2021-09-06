@@ -1,9 +1,5 @@
 ### Hello... 🌸
 <img align="right" alt="PC GIF" src="https://sophia.ml/cdn/PC.gif" width="180" />
-<head>
-<meta name="cf-2fa-verify" content="8e72f60550453f7">
-</head>
-
 
 - 🔭 I’m currently working on [Project Firewatch](https://projectfirewatch.com/)
 - 🌱 I’m currently learning Typescript
