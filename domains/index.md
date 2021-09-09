@@ -18,11 +18,11 @@
 
 ### [jimsim.dev](https://www.whois.com/whois/jimsim.dev) (For Sale)
 
-### [jimsim.xyz](https://www.whois.com/whois/jimsim.xyz)
+### [jimsim.xyz](https://www.whois.com/whois/jimsim.xyz) (Expiring Soon)
 
-### [ethanatkinson.me](https://www.whois.com/whois/ethanatkinson.me)
+### [ethanatkinson.me](https://www.whois.com/whois/ethanatkinson.me) (For Sale)
 
-### [theminecraftserver.xyz](https://www.whois.com/whois/theminecraftserver.xyz)
+### [theminecraftserver.xyz](https://www.whois.com/whois/theminecraftserver.xyz) (Expiring Soon)
 
 
 ---
