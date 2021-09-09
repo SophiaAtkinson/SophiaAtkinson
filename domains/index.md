@@ -1,0 +1,2 @@
+# Curently Owned Domains
+
