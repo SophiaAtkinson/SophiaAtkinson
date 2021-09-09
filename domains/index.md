@@ -27,7 +27,7 @@
 
 ---
 
-## Want one of these domains for yourself?
+## Want to own one of these domains?
 
 ## [Email Me!](mailto:sophialul@pm.me)
 
