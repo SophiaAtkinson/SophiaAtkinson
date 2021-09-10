@@ -1,6 +1,8 @@
 # Curently Owned Domains
 
 ---
+### [Home](/)
+---
 
 ### [fortnitedream.xyz](https://www.whois.com/whois/fortnitedream.xyz) (For Sale)
 
@@ -8,13 +10,13 @@
 
 ### [jimsim.network](https://www.whois.com/whois/jimsim.network) (For Sale)
  
-### [projectfirewatch.com](https://www.whois.com/whois/projectfirewatch.com)
+### [projectfirewatch.com](https://www.whois.com/whois/projectfirewatch.com) (NOT Sale)
 
 ### [sophiaatkinson.com](https://www.whois.com/whois/sophiaatkinson.com) (For Sale)
 
-### [sophia.ml](https://www.whois.com/whois/sophia.ml)
+### [sophia.ml](https://www.whois.com/whois/sophia.ml) (NOT Sale)
 
-### [codsworth.xyz](https://www.whois.com/whois/codsworth.xyz)
+### [codsworth.xyz](https://www.whois.com/whois/codsworth.xyz) (NOT Sale)
 
 ### [jimsim.dev](https://www.whois.com/whois/jimsim.dev) (For Sale)
 
@@ -24,6 +26,9 @@
 
 ### [theminecraftserver.xyz](https://www.whois.com/whois/theminecraftserver.xyz) (Expiring Soon)
 
+### [doghouseresin.com](https://www.whois.com/whois/doghouseresin.com) (NOT Sale)
+
+### [doghairtumbleweeds.com](https://www.whois.com/whois/doghairtumbleweeds.com) (NOT Sale)
 
 ---
 
