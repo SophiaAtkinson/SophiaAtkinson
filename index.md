@@ -10,10 +10,25 @@
 - 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my [Email](mailto:sophialul@protonmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts about me: I am trans mtf, I have a homelab, I love computers, and I waste alot of money on garbage.
-- 🎵 Favorite Songs List: [Here](/music/) 
 - 📁 My official site: [sophia.ml](https://sophia.ml/), [sophiaatkinson.com (Deprecated)](https://sophiaatkinson.com)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
-- 🔗 Misc Links: [Project News](/releases/), [Domains List](/domains/), [Codsworth](https://codsworth.xyz/), [Project Firewatch](https://projectfirewatch.com), [Steam Curator](/link/curator), [Github](/link/github), [Steam](/link/steam), [Twitter](/link/twitter), [Youtube](/link/youtube).
+- 🔗 Misc Links: [Codsworth](https://codsworth.xyz/), [Project Firewatch](https://projectfirewatch.com), [Steam Curator](/link/curator), [Github](/link/github), [Steam](/link/steam), [Twitter](/link/twitter), [Youtube](/link/youtube).
+
+---
+
+Table of contents
+
+[Project News](/releases/)
+
+[Domains List](/domains/)
+
+[Favorite Songs List](/music/) 
+
+["Professional" Page](/pro/)
+
+[Snake!](/snake/)
+
+[Domains list](/domains/)
 
 ---
 
