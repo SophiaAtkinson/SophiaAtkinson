@@ -18,17 +18,17 @@
 
 Table of contents
 
-[Project News](/releases/)
+[The News Page](/releases/)
 
-[Domains List](/domains/)
+[The Domains Page](/domains/)
 
-[Favorite Songs List](/music/) 
+[The Music Page](/music/) 
 
-["Professional" Page](/pro/)
+[The "Professional" Page](/pro/)
 
-[Snake!](/snake/)
+[The Snakey Page](/snake/)
 
-[Domains list](/domains/)
+
 
 ---
 
