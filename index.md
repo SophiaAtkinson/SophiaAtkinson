@@ -12,7 +12,7 @@
 - ⚡ Fun facts about me: I am trans mtf, I have a homelab, I love computers, and I waste alot of money on garbage.
 - 📁 My official site: [sophia.ml](https://sophia.ml/), [sophiaatkinson.com (Deprecated)](https://sophiaatkinson.com)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
-- 🔗 Misc Links: [Codsworth](https://codsworth.xyz/), [Project Firewatch](https://projectfirewatch.com), [Steam Curator](/link/curator), [Github](/link/github), [Steam](/link/steam), [Twitter](/link/twitter), [Youtube](/link/youtube).
+- 🔗 Misc Links: [Project Firewatch](https://projectfirewatch.com), [Steam Curator](/link/curator), [Github](/link/github), [Steam](/link/steam), [Twitter](/link/twitter), [Youtube](/link/youtube).
 
 ---
 
