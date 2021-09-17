@@ -12,11 +12,11 @@
  
 ### [projectfirewatch.com](https://www.whois.com/whois/projectfirewatch.com) (NOT for Sale)
 
-### [sophiaatkinson.com](https://www.whois.com/whois/sophiaatkinson.com) (For Sale)
+### [sophiaatkinson.com](https://www.whois.com/whois/sophiaatkinson.com) (Redirected)
 
 ### [sophia.ml](https://www.whois.com/whois/sophia.ml) (NOT for Sale)
 
-### [codsworth.xyz](https://www.whois.com/whois/codsworth.xyz) (NOT for Sale)
+### [codsworth.xyz](https://www.whois.com/whois/codsworth.xyz) (Parked, NOT for Sale)
 
 ### [jimsim.dev](https://www.whois.com/whois/jimsim.dev) (For Sale)
 
