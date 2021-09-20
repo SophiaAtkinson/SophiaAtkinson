@@ -11,7 +11,7 @@
 - 🎵 Favorite Songs List: [Here](/music/) 
 - 📁 My official site: [sophia.ml](https://sophia.ml/), [sophiaatkinson.com (Deprecated)](https://sophiaatkinson.com)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
-- 🔗 Misc Links: [Project News](https://sophia.ml/news/), [Project Firewatch](https://projectfirewatch.com), [Steam Curator](https://sophia.ml/link/curator), [Github](https://sophia.ml/link/github), [Steam](https://sophia.ml/link/steam), [Twitter](https://sophia.ml/link/twitter), [Youtube](https://sophia.ml/link/youtube).
+- 🔗 Misc Links: [Project News](https://sophia.ml/news/), [Project Firewatch](https://projectfirewatch.com), [Steam Curator](https://sophia.ml/l/curator), [Github](https://sophia.ml/l/github), [Steam](https://sophia.ml/l/steam), [Twitter](https://sophia.ml/l/twitter), [Youtube](https://sophia.ml/l/youtube).
 
 
 
