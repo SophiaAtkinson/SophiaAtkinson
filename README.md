@@ -9,9 +9,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts about me: I am trans mtf, I have a homelab, I love computers, and I waste alot of money on garbage.
 - 🎵 Favorite Songs List: [Here](/music/) 
-- 📁 My official site: [sophia.ml](https://sophia.ml/), [sophiaatkinson.com (Deprecated)](https://sophiaatkinson.com)
+- 📁 My official site: [sophia.wtf](https://sophia.wtf/), [sophiaatkinson.com (Deprecated)](https://sophiaatkinson.com)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
-- 🔗 Misc Links: [Project News](https://sophia.ml/news/), [Project Firewatch](https://projectfirewatch.com), [Steam Curator](https://sophia.ml/l/curator), [Github](https://sophia.ml/l/github), [Steam](https://sophia.ml/l/steam), [Twitter](https://sophia.ml/l/twitter), [Youtube](https://sophia.ml/l/youtube).
+- 🔗 Misc Links: [Project News](https://sophia.wtf/news/), [Project Firewatch](https://projectfirewatch.com), [Steam Curator](https://sophia.wtf/l/curator), [Github](https://sophia.wtf/l/github), [Steam](https://sophia.wtf/l/steam), [Twitter](https://sophia.wtf/l/twitter), [Youtube](https://sophia.wtf/l/youtube).
 
 
 
