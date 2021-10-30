@@ -8,7 +8,7 @@
 - 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my [Email](https://sophia.ml/l/email)
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts about me: I am trans mtf, I have a homelab, I love computers, and I waste alot of money on garbage.
-- 🎵 Favorite Songs List: [Here](/music/) 
+- 🎵 Favorite Songs List: [Here](https://sophia.wtf/music/) 
 - 📁 My official site: [sophia.wtf](https://sophia.wtf/), [sophia.ml (Deprecated)](https://sophia.ml/) [sophiaatkinson.com (Deprecated)](https://sophiaatkinson.com)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
 - 🔗 Misc Links: [Project News](https://sophia.wtf/news/), [Project Firewatch](https://projectfirewatch.com), [Steam Curator](https://sophia.wtf/l/curator), [Github](https://sophia.wtf/l/github), [Steam](https://sophia.wtf/l/steam), [Twitter](https://sophia.wtf/l/twitter), [Youtube](https://sophia.wtf/l/youtube).
