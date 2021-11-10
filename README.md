@@ -1,5 +1,5 @@
 ### Hello... 🌸
-<img align="right" alt="PC GIF" src="https://sophia.ml/cdn/PC.gif" width="180" />
+<img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/SophiaAtkinson/SophiaAtkinson/main/assets/PC.gif" width="180" />
 
 - 🔭 I’m currently working on [Project Firewatch](https://projectfirewatch.com/)
 - 🌱 I’m currently learning Kotlin
