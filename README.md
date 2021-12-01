@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Kotlin
 - 🤔 I’m looking for help with Nothing right now.
 - 💬 Ask me about anything
-- 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my [Email](https://sophia.ml/l/email)
+- 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my [Email](https://sop.wtf/email)
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts about me: I am trans mtf, I have a homelab, I love computers, and I waste alot of money on garbage.
 - 🎵 Favorite Songs List: [Here](https://sophia.wtf/music/) 
