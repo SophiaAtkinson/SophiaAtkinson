@@ -1,17 +1,17 @@
 ### Hello... 🌸
 <img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/SophiaAtkinson/SophiaAtkinson/main/assets/PC.gif" width="180" />
 
-- 🔭 I’m currently working on [Project Firewatch](https://projectfirewatch.com/)
+- 🔭 I’m currently working on Codsworth V2
 - 🌱 I’m currently learning Kotlin
 - 🤔 I’m looking for help with Nothing right now.
 - 💬 Ask me about anything
 - 📫 How to reach me: Discord [SophiaXD#3076](https://discord.com/users/420297282676719618), or my [Email](mailto:sophialul@protonmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts about me: I am trans mtf, I have a homelab, I love computers, and I waste alot of money on garbage.
-- 🎵 Favorite Songs List: [Here](https://sophia.wtf/music/) 
-- 📁 My official domains: [Here](https://sophia.wtf/domains)
+- 🎵 Favorite Songs List: [Here](https://sop.wtf/upsk7) 
+- 📁 My official domains: [Here](https://sop.wtf/ysnns)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java.
-- 🔗 Misc Links: [Project News](https://sophia.wtf/news/), [Project Firewatch](https://projectfirewatch.com), [Github](https://sop.wtf/sagithub), [Steam](https://sop.wtf/sasteam), [Twitter](https://sop.wtf/satwitter), [Youtube](https://sop.wtf/shwampyt).
+- 🔗 Misc Links: [Project News](https://sop.wtf/n9dav), [Project Firewatch](https://sop.wtf/pf), [Github](https://sop.wtf/sagithub), [Steam](https://sop.wtf/sasteam), [Twitter](https://sop.wtf/satwitter), [Youtube](https://sop.wtf/shwampyt).
 
 
 
