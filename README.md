@@ -10,7 +10,7 @@
 - ⚡ Fun facts about me: I am trans mtf, I have a homelab, I love computers, and I waste alot of money on garbage.
 - 🎵 Favorite Songs List: [Here](https://sop.wtf/upsk7) 
 - 📁 My official domains: [Here](https://sop.wtf/ysnns)
-- 🖥 Node.js, Javascript, Lua, C++, C#, Java.
+- 🖥 Node.js, Javascript, Lua, C++, C#, Java, React.
 - 🔗 Misc Links: [Project News](https://sop.wtf/n9dav), [Project Firewatch](https://sop.wtf/pf), [Github](https://sop.wtf/sagithub), [Steam](https://sop.wtf/sasteam), [Twitter](https://sop.wtf/satwitter), [Youtube](https://sop.wtf/shwampyt).
 
 
