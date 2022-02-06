@@ -1,7 +1,7 @@
 ### Hello... 🌸
 <img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/SophiaAtkinson/SophiaAtkinson/main/assets/PC.gif" width="180" />
 
-- 🔭 I’m currently working on Codsworth V2
+- 🔭 I’m currently working on Project Red Moon
 - 🌱 I’m currently learning Kotlin
 - 🤔 I’m looking for help with Nothing right now.
 - 💬 Ask me about anything
