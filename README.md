@@ -13,7 +13,7 @@
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java, React.
 - 🔗 Misc Links: [Project News](https://sop.wtf/n9dav), [Project Firewatch](https://sop.wtf/pf), [Github](https://sop.wtf/sagithub), [Steam](https://sop.wtf/sasteam), [Twitter](https://sop.wtf/satwitter), [Youtube](https://sop.wtf/shwampyt).
 
-### Note: I am affiliated with Waters Technology, Ltd.
+Note: I am affiliated with Waters Technology, Ltd.
 
 
 
