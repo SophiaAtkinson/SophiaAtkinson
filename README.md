@@ -11,7 +11,7 @@
 - 🎵 Favorite Songs List: [Here](https://sop.wtf/upsk7) 
 - 📁 My official domains: [Here](https://sop.wtf/ysnns)
 - 🖥 Node.js, Javascript, Lua, C++, C#, Java, React, PHP, HTML, CSS.
-- 🔗 Misc Links: [Project News](https://sop.wtf/n9dav), [Project Firewatch](https://sop.wtf/pf), [Github](https://sop.wtf/sagithub), [Steam](https://sop.wtf/sasteam), [Twitter](https://sop.wtf/satwitter), [Youtube](https://sop.wtf/shwampyt).
+- 🔗 Misc Links: [Project News](https://sop.wtf/n9dav), [Project Firewatch](https://sop.wtf/pf), [Github](https://sop.wtf/sagithub), [Steam](https://sop.wtf/sasteam), [Mastodon](https://sop.wtf/samastodon), [Youtube](https://sop.wtf/shwampyt).
 
 
 
