@@ -1,5 +1,5 @@
 ### Hello... 🌸
-<img align="right" alt="PC GIF" src="https://sh.satki.net/nirO5/GAzIMUcE52.png/raw" width="200" />
+<img align="right" alt="PC GIF" src="https://raw.githubusercontent.com/SophiaAtkinson/SophiaAtkinson/main/assets/PC.gif" width="200" />
 
 - 🔭 I’m currently working on Project Firewatch
 - 🌱 I’m currently learning Kotlin
