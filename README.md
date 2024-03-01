@@ -13,9 +13,9 @@
     - [She/Her](https://en.pronouns.page/she/her)
     - [They/Them](https://en.pronouns.page/they/them)
 - ⚡ **Fun facts about me**
-    - Im a trans lass 🏳️‍⚧️
-    - Im a big lezzy
-    - Im a Computer & Server Enthusiast
+    - I'm a trans lass 🏳️‍⚧️
+    - I'm a big lezzy
+    - I'm a Computer & Server Enthusiast
     - I waste a lot of money on garbage.
 - 🖥 **Code languages**
     - HTML
