@@ -6,7 +6,6 @@
 
 - 📫 **How can reach me**
     - [Email](mailto:sophialul@protonmail.com)<br>
-    - [Telegram](https://t.me/SophiaAtkinson)<br>
     - [Discord](https://discord.com/users/420297282676719618) (*SophiaWTF*)<br>
     - [Keybase](https://keybase.io/sophiaatkinson)
 - 😄 **Pronouns**
