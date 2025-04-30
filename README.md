@@ -4,7 +4,7 @@
 
 ## Find all my good shit on [Oldgate Git](https://sop.wtf/sagit)
 
-- 📫 **How can reach me**
+- 📫 **You can reach me on the following**
     - [Email](mailto:sophialul@protonmail.com)<br>
     - [Discord](https://discord.com/users/420297282676719618) (*SophiaWTF*)<br>
     - [Keybase](https://keybase.io/sophiaatkinson)
