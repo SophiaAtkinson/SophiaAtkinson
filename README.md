@@ -4,7 +4,7 @@
 
 ## ✨ About Me
 
-- 💻 **Find all my good shit** on [Oldgate Git](https://sop.wtf/sagit)
+- 💻 **Find all my good shit** on my [Gitea](https://git.satki.net/sophia)
 - 📫 **Reach me**
   - [Email](mailto:sophialul@protonmail.com) - [GPG Key](https://sophia.wtf/key)
   - [Discord](https://discord.com/users/420297282676719618) - *SophiaWTF*
